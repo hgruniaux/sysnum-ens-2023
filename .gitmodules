@@ -1,0 +1,6 @@
+[submodule "carotte.py"]
+	path = carotte.py
+	url = git@github.com:TWal/carotte.py.git
+[submodule "minijazz"]
+	path = minijazz
+	url = git@github.com:inria-parkas/minijazz.git
