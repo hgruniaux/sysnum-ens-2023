@@ -1,0 +1,6 @@
+# Ignore scheduler result files
+*_sch.net
+
+_build/
+
+.vscode/
